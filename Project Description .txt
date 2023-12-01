@@ -1,7 +1,8 @@
 Excited to share a recent project 
 _____________________
 ◾ IDEA of project:
-There are 8 yellow LEDs and a (On/Off) magic button to turn the LEDs on/off, as well as an indicator blue LED to indicate whether the system is turned on or off. When the system is turned on, there are 5 modes for the LEDs with buttons (0,1,2,3,4) on the keypad. 
+There are 8 yellow LEDs and a (On/Off) magic button to turn the LEDs on/off, as well as an indicator blue LED to indicate whether the 
+system is turned on or off. When the system is turned on, there are 5 modes for the LEDs with buttons (0,1,2,3,4) on the keypad. 
 
 ____________________
 
